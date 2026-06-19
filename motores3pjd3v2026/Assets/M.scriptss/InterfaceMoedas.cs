@@ -17,6 +17,6 @@ public class InterfaceMoedas : MonoBehaviour
 
     private void AtualizarTexto(int quantidade)
     {
-        textoMoedas.text = "CONTADOR DE MOEDAS: " + quantidade;
+        textoMoedas.text = "Moedas: " + quantidade;
     }
 }
