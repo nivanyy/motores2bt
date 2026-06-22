@@ -1616,7 +1616,6 @@ GameObject:
   - component: {fileID: 1206494054}
   - component: {fileID: 1206494053}
   - component: {fileID: 1206494052}
-  - component: {fileID: 1206494051}
   - component: {fileID: 1206494050}
   - component: {fileID: 1206494049}
   m_Layer: 0
@@ -1661,19 +1660,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d9e53f5f7a6c2c4da1d0aa448409d7b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Moeda
---- !u!114 &1206494051
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1206494048}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7e348868baaec6a4aa35429303aeea18, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::CoinRotate
-  speed: 100
 --- !u!23 &1206494052
 MeshRenderer:
   m_ObjectHideFlags: 0
